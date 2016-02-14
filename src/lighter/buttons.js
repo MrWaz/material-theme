@@ -51,7 +51,7 @@
     "layer0.opacity": 0.0,
     "layer2.tint": [255, 255, 255],
     "layer2.opacity": { "target": 0.0, "speed": 10.0, "interpolation": "smoothstep" },
-    "content_margin": [10, 6]
+    "content_margin": [6, 6]
   },
 
 
